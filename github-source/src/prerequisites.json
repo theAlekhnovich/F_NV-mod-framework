@@ -1,0 +1,867 @@
+[
+  {
+    "id": "vc14x86",
+    "title": "Microsoft Visual C++ v14 (x86)",
+    "path": "VC_redist.x86.exe",
+    "arguments": "/install /passive /norestart",
+    "files": [
+      {
+        "path": "VC_redist.x86.exe",
+        "hash": "f0bab33a302b3cdb2e11113760d016f54fd3d2632c65ba7834fac4f0abd7f1a3",
+        "size": 6941536
+      }
+    ]
+  },
+  {
+    "id": "vc14x64",
+    "title": "Microsoft Visual C++ v14 (x64)",
+    "path": "VC_redist.x64.exe",
+    "arguments": "/install /passive /norestart",
+    "files": [
+      {
+        "path": "VC_redist.x64.exe",
+        "hash": "843068991daaa1f73ad9f6239bce4d0f6a07a51f18c37ea2a867e9beca71295c",
+        "size": 18731856
+      }
+    ]
+  },
+  {
+    "id": "vc12x86",
+    "title": "Microsoft Visual C++ 2013 (x86)",
+    "path": "vcredist_x86.exe",
+    "arguments": "/install /passive /norestart",
+    "files": [
+      {
+        "path": "vcredist_x86.exe",
+        "hash": "53b605d1100ab0a88b867447bbf9274b5938125024ba01f5105a9e178a3dcdbd",
+        "size": 6510136
+      }
+    ]
+  },
+  {
+    "id": "vc11x86",
+    "title": "Microsoft Visual C++ 2012 (x86)",
+    "path": "vcredist2012_x86.exe",
+    "arguments": "/install /passive /norestart",
+    "files": [
+      {
+        "path": "vcredist2012_x86.exe",
+        "size": 6554576,
+        "hash": "b924ad8062eaf4e70437c8be50fa612162795ff0839479546ce907ffa8d6e386"
+      }
+    ]
+  },
+  {
+    "id": "vc9x86",
+    "title": "Microsoft Visual C++ 2008 SP1 (x86)",
+    "path": "vcredist2008_x86.exe",
+    "arguments": "/q /norestart",
+    "files": [
+      {
+        "path": "vcredist2008_x86.exe",
+        "size": 4483040,
+        "hash": "8742bcbf24ef328a72d2a27b693cc7071e38d3bb4b9b44dec42aa3d2c8d61d92"
+      }
+    ]
+  },
+  {
+    "id": "dx9",
+    "title": "Legacy DirectX libraries (June 2010)",
+    "path": "DirectX/DXSETUP.exe",
+    "arguments": "/silent",
+    "files": [
+      {
+        "path": "DirectX/Apr2005_d3dx9_25_x64.cab",
+        "hash": "b4188ce988af9c4771ae0abcc7edc42a091133f9f20196564f51755dc55ea85d",
+        "size": 1347354
+      },
+      {
+        "path": "DirectX/Apr2005_d3dx9_25_x86.cab",
+        "hash": "6ebfb6ed6ac0b69502a5b74e2edca188872fe767269c4ebf62f174157d198de4",
+        "size": 1078962
+      },
+      {
+        "path": "DirectX/Apr2006_d3dx9_30_x64.cab",
+        "hash": "079f61e155695a61a0ce009ee00cf76fbf6b2b9b412c1a5b4a2035d4b5c90a5b",
+        "size": 1397830
+      },
+      {
+        "path": "DirectX/Apr2006_d3dx9_30_x86.cab",
+        "hash": "4b5da79e14ef58f2608fc5ccedfc7c6c6f782291aa5573f36af76f2903173db5",
+        "size": 1115221
+      },
+      {
+        "path": "DirectX/Apr2006_MDX1_x86.cab",
+        "hash": "0e3b4b9d5a45884620820d0e9cfed852b03dfb44e443179a35e93f3183384db3",
+        "size": 916430
+      },
+      {
+        "path": "DirectX/Apr2006_MDX1_x86_Archive.cab",
+        "hash": "0a051a9b50f58dc631254102ac885942ced67c2911950de0cdd93cd1cd9453ec",
+        "size": 4162630
+      },
+      {
+        "path": "DirectX/Apr2006_XACT_x64.cab",
+        "hash": "002f45af20e43a24abee7a79c5add11987c88140b84e2ecd33c0c67259c7f71b",
+        "size": 179133
+      },
+      {
+        "path": "DirectX/Apr2006_XACT_x86.cab",
+        "hash": "875662d0fc1fe865bf43e7279fd391e88f96b3141c1a829ab3080d547501ff8f",
+        "size": 133103
+      },
+      {
+        "path": "DirectX/Apr2006_xinput_x64.cab",
+        "hash": "48da57aa045a877053a481802fdb3ec5782615d9ad85a8c06612bd80272e75d7",
+        "size": 87101
+      },
+      {
+        "path": "DirectX/Apr2006_xinput_x86.cab",
+        "hash": "a9b3dd45926364d79b42b75d8064c814ff428437143c59b1c703ec8323305fbb",
+        "size": 46010
+      },
+      {
+        "path": "DirectX/APR2007_d3dx10_33_x64.cab",
+        "hash": "1bed02f304d495c2769debff315ae3f017c7e9907d85138996554e8e61a61e91",
+        "size": 698612
+      },
+      {
+        "path": "DirectX/APR2007_d3dx10_33_x86.cab",
+        "hash": "6aca96d6aa400d8ad07d2fb1c4aa94c62d261b9370cbf01d2acce24e489038ba",
+        "size": 695865
+      },
+      {
+        "path": "DirectX/APR2007_d3dx9_33_x64.cab",
+        "hash": "387c63928479e0ad138fa154f9f291821275f6fdf122aac8ace87f0d2033e77c",
+        "size": 1607358
+      },
+      {
+        "path": "DirectX/APR2007_d3dx9_33_x86.cab",
+        "hash": "9a7e65d97910b2038bb01a640a86c2ebf62ab7b36a50f349e71ec901b206f0ee",
+        "size": 1606039
+      },
+      {
+        "path": "DirectX/APR2007_XACT_x64.cab",
+        "hash": "0e1042d91b755a36e7dfca480bb3f868cb23f5438dd1415fd3fcfb13b27d761e",
+        "size": 195766
+      },
+      {
+        "path": "DirectX/APR2007_XACT_x86.cab",
+        "hash": "9dee9f2b720b0fc90b8ebdac22d20f2008e58f16f354b9a967526c439bf0b9a3",
+        "size": 151225
+      },
+      {
+        "path": "DirectX/APR2007_xinput_x64.cab",
+        "hash": "e7a09f8235cc587cc63f583e39fbc75008d9677c8bb4dcc11cb8d0178a5153ac",
+        "size": 96817
+      },
+      {
+        "path": "DirectX/APR2007_xinput_x86.cab",
+        "hash": "2acea6c8b9f6f7f89ec51365a1e49fbd0d8c42c53418bd0783dbf3f74a744e6d",
+        "size": 53302
+      },
+      {
+        "path": "DirectX/Aug2005_d3dx9_27_x64.cab",
+        "hash": "281d20c56caa3a2851199c028d4d20ef0a862cc3f84b165eb200da573d9e4401",
+        "size": 1350542
+      },
+      {
+        "path": "DirectX/Aug2005_d3dx9_27_x86.cab",
+        "hash": "7a10900872ecd9bdbc8f7beb7869a260fa4b25e34084f237f1b096df5371c273",
+        "size": 1077644
+      },
+      {
+        "path": "DirectX/AUG2006_XACT_x64.cab",
+        "hash": "beaac99fd17bc9fa85a2a220a13d8c13bd90f66eee595cbd27ab9aaadc234b03",
+        "size": 182903
+      },
+      {
+        "path": "DirectX/AUG2006_XACT_x86.cab",
+        "hash": "cd2e1256efa1723eb77c77440f7b72f0eed8c0df17677cd4cc5a95a65a0f4849",
+        "size": 137235
+      },
+      {
+        "path": "DirectX/AUG2006_xinput_x64.cab",
+        "hash": "a54c7820f37b5e70068b801263c7efcc26b6404555a968094227e8bbaf5c22c5",
+        "size": 87142
+      },
+      {
+        "path": "DirectX/AUG2006_xinput_x86.cab",
+        "hash": "ad2b521d1a7abca6314eaeacb23690b63b2a17adbb2a47d3d69cc4660c7d2152",
+        "size": 46058
+      },
+      {
+        "path": "DirectX/AUG2007_d3dx10_35_x64.cab",
+        "hash": "edbdcb1fa651ec3c8a505a0bb8570b6147ed89ca372e3e6ea86dc6876d6a72f5",
+        "size": 852286
+      },
+      {
+        "path": "DirectX/AUG2007_d3dx10_35_x86.cab",
+        "hash": "a574ecb764861fc40301ebb65fb0bde10fc904ac6eea0580c325dd0c561ff35b",
+        "size": 796867
+      },
+      {
+        "path": "DirectX/AUG2007_d3dx9_35_x64.cab",
+        "hash": "6a637ef67615722156fe3fd57ef7581d4ac85ee237d445975b6a20c7a76bd7e3",
+        "size": 1800160
+      },
+      {
+        "path": "DirectX/AUG2007_d3dx9_35_x86.cab",
+        "hash": "6891a70890d5b0bed82a41c47211690a73b24b6df331b83135ed647ff13b1aca",
+        "size": 1708152
+      },
+      {
+        "path": "DirectX/AUG2007_XACT_x64.cab",
+        "hash": "35f09b0727ee1ab9116166c512c08886623a67939b2e0d841efdee689b6e0f84",
+        "size": 198096
+      },
+      {
+        "path": "DirectX/AUG2007_XACT_x86.cab",
+        "hash": "b39c1b8483111be11cd4c10ef2d18ec8f0b23ff13b628482507076ede9fa9bd1",
+        "size": 153012
+      },
+      {
+        "path": "DirectX/Aug2008_d3dx10_39_x64.cab",
+        "hash": "ae64328b9a02a47c5ad429b9fba47b9228ab1a1e7d4e00e5d24087f2772d0b80",
+        "size": 867612
+      },
+      {
+        "path": "DirectX/Aug2008_d3dx10_39_x86.cab",
+        "hash": "8c0643efa8d113fc5ef0a0e98d9a2cc0e32cb8d4219ca0bc7e57cf710fd4fdad",
+        "size": 849167
+      },
+      {
+        "path": "DirectX/Aug2008_d3dx9_39_x64.cab",
+        "hash": "e0c5dc6a375a70ac6c8cea9193b76db241dad8e754702d57fd20765b55b30798",
+        "size": 1794084
+      },
+      {
+        "path": "DirectX/Aug2008_d3dx9_39_x86.cab",
+        "hash": "87d672f2ea01ef2123fe5c92da82a988cd964ca55ad660cc073d78d8151a7d84",
+        "size": 1464672
+      },
+      {
+        "path": "DirectX/Aug2008_XACT_x64.cab",
+        "hash": "c49e261887fefc13cc914590e33faec10316641bf683a121901c302a7a9efab4",
+        "size": 121772
+      },
+      {
+        "path": "DirectX/Aug2008_XACT_x86.cab",
+        "hash": "913f67e5daeb61d872392f2951e13ecfacef572ad4bb1731f7bbefa1ab314a24",
+        "size": 92996
+      },
+      {
+        "path": "DirectX/Aug2008_XAudio_x64.cab",
+        "hash": "5320967b14b8f7ad95973a26d3cb9de645acc663d3c3d1fce7d6464abe7e0d78",
+        "size": 271412
+      },
+      {
+        "path": "DirectX/Aug2008_XAudio_x86.cab",
+        "hash": "d26eff418f73c878a174c69a12dff08323df617526e8c5d8439e975f083db63b",
+        "size": 271038
+      },
+      {
+        "path": "DirectX/Aug2009_D3DCompiler_42_x64.cab",
+        "hash": "d2e14fc8cb9410caad5bd17c4acff2b6e060c552c432d11946a6905aee216931",
+        "size": 919044
+      },
+      {
+        "path": "DirectX/Aug2009_D3DCompiler_42_x86.cab",
+        "hash": "36c9be8c55f721c38110d56a6ccada672e7566d89f77c738c94fcdf1a584ecf4",
+        "size": 900598
+      },
+      {
+        "path": "DirectX/Aug2009_d3dcsx_42_x64.cab",
+        "hash": "b53bb3ed6f56702672f9f0201f6399b28f8c012ac7f1a604fb13b32a10a40dab",
+        "size": 3112111
+      },
+      {
+        "path": "DirectX/Aug2009_d3dcsx_42_x86.cab",
+        "hash": "a66fd98a1f746698848a4a7eb5ae69dac8ff2654b56c7decebb03cdca8dc7c85",
+        "size": 3319740
+      },
+      {
+        "path": "DirectX/Aug2009_d3dx10_42_x64.cab",
+        "hash": "2cfd51f0115c048ed432522d387167e46b2a2929524dcbd08b91c07705d5da27",
+        "size": 232635
+      },
+      {
+        "path": "DirectX/Aug2009_d3dx10_42_x86.cab",
+        "hash": "eef0244674e44a4131f12243a11badf3e9c7a24efdca73dd26cf75f24d902597",
+        "size": 192131
+      },
+      {
+        "path": "DirectX/Aug2009_d3dx11_42_x64.cab",
+        "hash": "0b91a568769bf0f89658ffb4eff9eacdc5debbe4ddc2d94da6f7068237c94c86",
+        "size": 136301
+      },
+      {
+        "path": "DirectX/Aug2009_d3dx11_42_x86.cab",
+        "hash": "e8c845fc2cf746ba07f8921a09dc533973621d6f8a015342e2b078d11815b121",
+        "size": 105044
+      },
+      {
+        "path": "DirectX/Aug2009_d3dx9_42_x64.cab",
+        "hash": "832f6a4415c873ed8acca0d5c9e65fe163d9567f0ce29fb3fda11d7afd1e11c7",
+        "size": 930116
+      },
+      {
+        "path": "DirectX/Aug2009_d3dx9_42_x86.cab",
+        "hash": "0adc71e37869f12b4806321f40c25dad3d5f8ad372eb35e0bcbaacf60408eb45",
+        "size": 728456
+      },
+      {
+        "path": "DirectX/Aug2009_XACT_x64.cab",
+        "hash": "69dab3f80a58912fbee51934d1e6da8d0432efa7577810600dfd168d4a52d637",
+        "size": 122408
+      },
+      {
+        "path": "DirectX/Aug2009_XACT_x86.cab",
+        "hash": "7c4bab445d4666965019b6084c23e4b9ae9e34b14898d01debc0101ddb9e12e4",
+        "size": 93106
+      },
+      {
+        "path": "DirectX/Aug2009_XAudio_x64.cab",
+        "hash": "1269f085046694d1466a4b75386ec30dd0564949db4fa90df366983f860acb97",
+        "size": 273264
+      },
+      {
+        "path": "DirectX/Aug2009_XAudio_x86.cab",
+        "hash": "b8e0c1022a42156c4239aea081f3abb0bf45ef61f30413df182e422e26435714",
+        "size": 272642
+      },
+      {
+        "path": "DirectX/Dec2005_d3dx9_28_x64.cab",
+        "hash": "8231b38a0ab70018f15d7239ed96e5f2bc89ddae6cf9650c9d7bd052b96877e3",
+        "size": 1357976
+      },
+      {
+        "path": "DirectX/Dec2005_d3dx9_28_x86.cab",
+        "hash": "bdee0708db956a4ce59220626106a2df70ede2e1e32f29e432254b04876fa7b9",
+        "size": 1079456
+      },
+      {
+        "path": "DirectX/DEC2006_d3dx10_00_x64.cab",
+        "hash": "d926d1381f1949754f5e6d597c4ab49e3f350312b2e426effafeed22ba9ced91",
+        "size": 212807
+      },
+      {
+        "path": "DirectX/DEC2006_d3dx10_00_x86.cab",
+        "hash": "07fe66373868c32de3f4a4097bd3834ac98018f490f5bf08f02f559c48dbf985",
+        "size": 191720
+      },
+      {
+        "path": "DirectX/DEC2006_d3dx9_32_x64.cab",
+        "hash": "473c0111f5a1efb6791575c5f769431fa2affd76813aaf9d476a571e26cd3fed",
+        "size": 1571154
+      },
+      {
+        "path": "DirectX/DEC2006_d3dx9_32_x86.cab",
+        "hash": "81251ebd8ee94f108807e32e04dea544c3937a5f870bc6ccb917d059e70b1838",
+        "size": 1574376
+      },
+      {
+        "path": "DirectX/DEC2006_XACT_x64.cab",
+        "hash": "b3f65d918e4dc0e84ce5d0add6d0d46425c58de19fddfbc7b996ff357caac3b2",
+        "size": 192475
+      },
+      {
+        "path": "DirectX/DEC2006_XACT_x86.cab",
+        "hash": "3d9b905fce31b42c47be263165d71c346b5d47abdabbfe6e9a87fd5a89b0b9f5",
+        "size": 145599
+      },
+      {
+        "path": "DirectX/DSETUP.dll",
+        "hash": "2a61679eeedabf7d0d0ac14e5447486575622d6b7cfa56f136c1576ff96da21f",
+        "size": 95576
+      },
+      {
+        "path": "DirectX/dsetup32.dll",
+        "hash": "fb0e534f9b0926e518f1c2980640dfd29f14217cdfa37cf3a0c13349127ed9a8",
+        "size": 1566040
+      },
+      {
+        "path": "DirectX/dxdllreg_x86.cab",
+        "hash": "4afe0249a13868b7c4a92b4d53c998adf6053eb5e2c47fd81020fd8d4bb11150",
+        "size": 44624
+      },
+      {
+        "path": "DirectX/DXSETUP.exe",
+        "hash": "8f47d7121ef6532ad9ad9901e44e237f5c30448b752028c58a9d19521414e40d",
+        "size": 517976
+      },
+      {
+        "path": "DirectX/dxupdate.cab",
+        "hash": "e18a5404b612e88fa8b403c9b33f064c0a89528db7ef9a79aa116908d0e6afed",
+        "size": 97152
+      },
+      {
+        "path": "DirectX/Feb2005_d3dx9_24_x64.cab",
+        "hash": "48eeeecd6411039b23f32b7b22c8d40bce45280af5f8b066edd6cf30284b90ca",
+        "size": 1247499
+      },
+      {
+        "path": "DirectX/Feb2005_d3dx9_24_x86.cab",
+        "hash": "12e2aab3dbaee503724a5505a6f6951f07306578801a4b5b6b9b54514275ce79",
+        "size": 1013225
+      },
+      {
+        "path": "DirectX/Feb2006_d3dx9_29_x64.cab",
+        "hash": "405bd17fe25128a91693807a6008031d87c005ba93d016cbab6276891d3bc6bb",
+        "size": 1362796
+      },
+      {
+        "path": "DirectX/Feb2006_d3dx9_29_x86.cab",
+        "hash": "20231448d5d74b7df1e43d796d76381d563699f81944c7ad9ccbcc1a77a5591e",
+        "size": 1084720
+      },
+      {
+        "path": "DirectX/Feb2006_XACT_x64.cab",
+        "hash": "ea39caab8e071df53c2f44c19fb2ff6e2f6af4ef47f0c66d8e7b1b0918d6745f",
+        "size": 178359
+      },
+      {
+        "path": "DirectX/Feb2006_XACT_x86.cab",
+        "hash": "633a1fe357e57bbb8e058e1e029f61f379ab936a85c5d30ee442d804a1806868",
+        "size": 132409
+      },
+      {
+        "path": "DirectX/FEB2007_XACT_x64.cab",
+        "hash": "85d3279df02904f161f62f7a529911e135439ae26f4aa4984be439a4ac1768ab",
+        "size": 194675
+      },
+      {
+        "path": "DirectX/FEB2007_XACT_x86.cab",
+        "hash": "d2446c0478d0087250c2f4f4cbdec7bdc9aec7ac92ca37b874c96aa3a3275dcd",
+        "size": 147983
+      },
+      {
+        "path": "DirectX/Feb2010_X3DAudio_x64.cab",
+        "hash": "832b6d48e169b4725ae482ea4d1c3360a09631a89b2fac3aba81a50805a50adc",
+        "size": 54678
+      },
+      {
+        "path": "DirectX/Feb2010_X3DAudio_x86.cab",
+        "hash": "acba5c4d4ac90e1df1c8404be5ff780e24238153cb410af909cd4364d213f2a9",
+        "size": 20713
+      },
+      {
+        "path": "DirectX/Feb2010_XACT_x64.cab",
+        "hash": "42d7936ca7520a8092ccb82612d0217c755ecf619251fd2aa0c37ccfd8c49807",
+        "size": 122446
+      },
+      {
+        "path": "DirectX/Feb2010_XACT_x86.cab",
+        "hash": "d168fcdd6b63c24f6f6d2851ad1d0d977146edd9f6377b46d8f87bf5a92a0693",
+        "size": 93180
+      },
+      {
+        "path": "DirectX/Feb2010_XAudio_x64.cab",
+        "hash": "038a01a9b3ba4ceb4df4726a5704a5b325871c07e3714913c3a9ff4184a50df6",
+        "size": 276960
+      },
+      {
+        "path": "DirectX/Feb2010_XAudio_x86.cab",
+        "hash": "86a653d6a77bad77df48a19669eb41dc402297b42d6f9ee239b39735be409d31",
+        "size": 277191
+      },
+      {
+        "path": "DirectX/Jun2005_d3dx9_26_x64.cab",
+        "hash": "7237630b897ce760948d9144151ef27c0699fb76150b5f157676fa2d220a236f",
+        "size": 1336002
+      },
+      {
+        "path": "DirectX/Jun2005_d3dx9_26_x86.cab",
+        "hash": "b448d7ba5b6fe1dc27639d42eb6ba0a997a793135678c729ba6756cfe4efc38b",
+        "size": 1064925
+      },
+      {
+        "path": "DirectX/JUN2006_XACT_x64.cab",
+        "hash": "e7bddd9db994cbb19671d45216edf40ffb3a77068cc97fbeb4c4e41e0d073501",
+        "size": 180785
+      },
+      {
+        "path": "DirectX/JUN2006_XACT_x86.cab",
+        "hash": "c1a1348611259756b5921d43f9fd9f2a5b40a48af88ea679a40263a2aca029ec",
+        "size": 133671
+      },
+      {
+        "path": "DirectX/JUN2007_d3dx10_34_x64.cab",
+        "hash": "3ef426fdd89840ead821ee8fe7a6f470ad8bf06dbcf2ac7cc8e8a0dd0a55622d",
+        "size": 699044
+      },
+      {
+        "path": "DirectX/JUN2007_d3dx10_34_x86.cab",
+        "hash": "47b355fb5324776370e2bd27ca2df982a516611fc1e702d75a829b207b3b80f6",
+        "size": 698472
+      },
+      {
+        "path": "DirectX/JUN2007_d3dx9_34_x64.cab",
+        "hash": "c28c2018fcc72a9548a752e2917284320fc1a8848ae9d92bf3513aa312cafc29",
+        "size": 1607774
+      },
+      {
+        "path": "DirectX/JUN2007_d3dx9_34_x86.cab",
+        "hash": "9c3507b1dd4a81651a5013cb7ecb552932ce5989cbaadd4024f02918f55276ac",
+        "size": 1607286
+      },
+      {
+        "path": "DirectX/JUN2007_XACT_x64.cab",
+        "hash": "0e08de538c217d80b19bd56066a269ca9b388e63ff6f3807b369d7b6a7fe794f",
+        "size": 197122
+      },
+      {
+        "path": "DirectX/JUN2007_XACT_x86.cab",
+        "hash": "e28d18ef520ca81ff7d33dad80b6144771cb82516f01739cef8d3b813c74643d",
+        "size": 152909
+      },
+      {
+        "path": "DirectX/JUN2008_d3dx10_38_x64.cab",
+        "hash": "781eb9276ea0d737d82dc60753c6d6ff89e92d016b48a60e9b21d1a66b8eb545",
+        "size": 867828
+      },
+      {
+        "path": "DirectX/JUN2008_d3dx10_38_x86.cab",
+        "hash": "b9b4110bd8004f83c0bfcef378071fd49c895294f4583e0b164317a692d9783c",
+        "size": 849919
+      },
+      {
+        "path": "DirectX/JUN2008_d3dx9_38_x64.cab",
+        "hash": "72e7f92c20462c4746ce000bc909ed6b3f71467f9e5593ba7c074be47553596d",
+        "size": 1792608
+      },
+      {
+        "path": "DirectX/JUN2008_d3dx9_38_x86.cab",
+        "hash": "5906932933e363acb1651a6b1f252662fb3512ed54dd6b0b87baa141ed6fb21a",
+        "size": 1463878
+      },
+      {
+        "path": "DirectX/JUN2008_X3DAudio_x64.cab",
+        "hash": "627c66ed6f3b82c8a90f549584c324e33f039f397f196ce9eccb86de76efb574",
+        "size": 55154
+      },
+      {
+        "path": "DirectX/JUN2008_X3DAudio_x86.cab",
+        "hash": "151d0be9d3fa6ce37f7aa8e047b8cc449e86398ed0623c3cc0e203ec221ebc2a",
+        "size": 21905
+      },
+      {
+        "path": "DirectX/JUN2008_XACT_x64.cab",
+        "hash": "f0736b0ab6eb8c91682f6934c9d4306fc134c65066f70f7f5f80031a927baa8d",
+        "size": 121054
+      },
+      {
+        "path": "DirectX/JUN2008_XACT_x86.cab",
+        "hash": "f06de1eef8043f7919a50972df7d0653f9439b725769dae93536dea749b8e2d6",
+        "size": 93128
+      },
+      {
+        "path": "DirectX/JUN2008_XAudio_x64.cab",
+        "hash": "9b15a27080204b3c36b787f919cefbf9d441f0b0b616f8b944feb42dc4eb2ff1",
+        "size": 269628
+      },
+      {
+        "path": "DirectX/JUN2008_XAudio_x86.cab",
+        "hash": "564696443875b094baafb5f4a151c25876ca537c1834356eddb979be0ca247ac",
+        "size": 269024
+      },
+      {
+        "path": "DirectX/Jun2010_D3DCompiler_43_x64.cab",
+        "hash": "213ad66ab9e469db1e6a49a646d082bfc3700db94172984e7e36801612af50c6",
+        "size": 944460
+      },
+      {
+        "path": "DirectX/Jun2010_D3DCompiler_43_x86.cab",
+        "hash": "417eebd5b19f45c67c94c2d2ba8b774c0fc6d958b896d7b1ac12cf5a0ea06e0e",
+        "size": 931471
+      },
+      {
+        "path": "DirectX/Jun2010_d3dcsx_43_x64.cab",
+        "hash": "cdbec7e3a5a0fef016eb294b036f93c75e45c6ead8d99397f859a32d23fe20cc",
+        "size": 752783
+      },
+      {
+        "path": "DirectX/Jun2010_d3dcsx_43_x86.cab",
+        "hash": "e2c5a2cbba7f211b6ca72ff8e5f69cba1f83be06357311b19e64f582fd3d14e4",
+        "size": 762188
+      },
+      {
+        "path": "DirectX/Jun2010_d3dx10_43_x64.cab",
+        "hash": "efce48d425c07f1faad4a55d7061a01ed6245aac17f43163cf2a23cbc9a3054b",
+        "size": 235955
+      },
+      {
+        "path": "DirectX/Jun2010_d3dx10_43_x86.cab",
+        "hash": "a8cf71ffb80b683616d0621be96d3795b0ffda3877ed2d80cd958bfa393ddcfc",
+        "size": 197283
+      },
+      {
+        "path": "DirectX/Jun2010_d3dx11_43_x64.cab",
+        "hash": "c1d0d56b83bfb09a5e1a89e1898bb74446a847b30a968f3664ec2d87368eb63e",
+        "size": 138205
+      },
+      {
+        "path": "DirectX/Jun2010_d3dx11_43_x86.cab",
+        "hash": "a58cefe822e371d078eaf89319f832693352ba7d62079320074397f0f3425961",
+        "size": 109445
+      },
+      {
+        "path": "DirectX/Jun2010_d3dx9_43_x64.cab",
+        "hash": "9b98a1269af7f3a0007bfdc73206a47a6ee158d34ba8a87009396c18186bb06a",
+        "size": 937246
+      },
+      {
+        "path": "DirectX/Jun2010_d3dx9_43_x86.cab",
+        "hash": "fcc6cf0966b4853d6fa3d32ab299cde5a9824feaecb0d4f34ea452fb9fd1c867",
+        "size": 768036
+      },
+      {
+        "path": "DirectX/Jun2010_XACT_x64.cab",
+        "hash": "06251ab76450feb7dc2ffb9be7615f5eb56960cefa4c990ef560f2c6f2a7551b",
+        "size": 124596
+      },
+      {
+        "path": "DirectX/Jun2010_XACT_x86.cab",
+        "hash": "354c2e579ed00b391dd5d8be91b0f45115e7c232ed1b842747830be0fd26e915",
+        "size": 93686
+      },
+      {
+        "path": "DirectX/Jun2010_XAudio_x64.cab",
+        "hash": "51500283f69e97f5beddb073ba2a9017de3d30379c0dcc4d11dd2236ce07b317",
+        "size": 277338
+      },
+      {
+        "path": "DirectX/Jun2010_XAudio_x86.cab",
+        "hash": "7b4332207563beba1103744b6db5399ad150e9e6838f9d5a71497e7eb3645ebf",
+        "size": 278060
+      },
+      {
+        "path": "DirectX/Mar2008_d3dx10_37_x64.cab",
+        "hash": "9eaba54ab5392802bee889982c585707797ae7810c1e7a66f98903fc963a9eab",
+        "size": 844884
+      },
+      {
+        "path": "DirectX/Mar2008_d3dx10_37_x86.cab",
+        "hash": "de438d52b5f1141be26f7d06f283699d96827129da524a412e1605bd9c8e6b6a",
+        "size": 818260
+      },
+      {
+        "path": "DirectX/Mar2008_d3dx9_37_x64.cab",
+        "hash": "33ed3e21fe9118bad3e11ee13a3f0b31c52ae7e22378ebf96de590b114c2ca02",
+        "size": 1769862
+      },
+      {
+        "path": "DirectX/Mar2008_d3dx9_37_x86.cab",
+        "hash": "0be4fe173c7becbab42a25421f28d54629479e240a3378b37ac4b657bf60e128",
+        "size": 1443282
+      },
+      {
+        "path": "DirectX/Mar2008_X3DAudio_x64.cab",
+        "hash": "b0209ae7c140b3b3a7635a00d7364591d6b3d017d6bb007f9e347767b00b1671",
+        "size": 55058
+      },
+      {
+        "path": "DirectX/Mar2008_X3DAudio_x86.cab",
+        "hash": "15e0dcefc22fb6a09e3d8724fa5c17c23db01f10879f343e7da22938f568abd7",
+        "size": 21867
+      },
+      {
+        "path": "DirectX/Mar2008_XACT_x64.cab",
+        "hash": "221a6a70898c8d513fac732dfa0ada137b268cffc90875c05d1049ba8f2e3e5b",
+        "size": 122336
+      },
+      {
+        "path": "DirectX/Mar2008_XACT_x86.cab",
+        "hash": "d1a429a0725765a5b302b83af062d2780859f0a52369b200d1b031e14f030ea0",
+        "size": 93734
+      },
+      {
+        "path": "DirectX/Mar2008_XAudio_x64.cab",
+        "hash": "35d20903b1b246afda8c5205bfa3b253fbad5d3255ce14b5a8d5aaa6b6909dbc",
+        "size": 251194
+      },
+      {
+        "path": "DirectX/Mar2008_XAudio_x86.cab",
+        "hash": "786e6417d105b1dedcb502a799d7cd30a65cbe59a2b41a411781bdafa7fb1917",
+        "size": 226250
+      },
+      {
+        "path": "DirectX/Mar2009_d3dx10_41_x64.cab",
+        "hash": "4e78a01a3a5d236f27cda4a66a9d8a59c06e8a9779fd2f2a3e1f9b416d2c4213",
+        "size": 1067160
+      },
+      {
+        "path": "DirectX/Mar2009_d3dx10_41_x86.cab",
+        "hash": "80736b3fe97947507a32bf7cd744e01a86424c4cc9977f7b4a7404268e83f8c1",
+        "size": 1040745
+      },
+      {
+        "path": "DirectX/Mar2009_d3dx9_41_x64.cab",
+        "hash": "218929568334f78c93d3a111ad268ff56ed4a6fee83ce26dce0a2619a092f46b",
+        "size": 1973702
+      },
+      {
+        "path": "DirectX/Mar2009_d3dx9_41_x86.cab",
+        "hash": "74ff3ac77380b3a7271f22b21e019c50f6caa8585f0b59cca094e76ce170a28b",
+        "size": 1612446
+      },
+      {
+        "path": "DirectX/Mar2009_X3DAudio_x64.cab",
+        "hash": "5fcb6f2d1dbf278c14813812448026a8d2bf2179bb4c2e807b9167fdb7966290",
+        "size": 54600
+      },
+      {
+        "path": "DirectX/Mar2009_X3DAudio_x86.cab",
+        "hash": "fd713dc9d50cb72508f0c416f6861588f1227bb9f2e1a40a6f0e774be248bb8d",
+        "size": 21298
+      },
+      {
+        "path": "DirectX/Mar2009_XACT_x64.cab",
+        "hash": "63721ba32053e4f2b0905aab8e68fe63eadaae53543be89b2d5f082b10edf6a2",
+        "size": 121506
+      },
+      {
+        "path": "DirectX/Mar2009_XACT_x86.cab",
+        "hash": "ba7f2b4e34c355dae4ca2aeae585985f2626c69e4cf857b9db009d50a23b620c",
+        "size": 92740
+      },
+      {
+        "path": "DirectX/Mar2009_XAudio_x64.cab",
+        "hash": "e470186155459daf0674a30450a4887f941ca7dbdf9aa311fc4d4c87352529ba",
+        "size": 275044
+      },
+      {
+        "path": "DirectX/Mar2009_XAudio_x86.cab",
+        "hash": "7c360b93d3e799d3502f0b6acf4139c058d7d47e63d41f4af0f2bff59b4742b2",
+        "size": 273018
+      },
+      {
+        "path": "DirectX/Nov2007_d3dx10_36_x64.cab",
+        "hash": "0847e4034d70ccbea527e04d14d8d60c9854ecc89cb29b3e07139e65962fbce9",
+        "size": 864600
+      },
+      {
+        "path": "DirectX/Nov2007_d3dx10_36_x86.cab",
+        "hash": "0da883c82456a5340411f222af5891fd370bf7efd919e90a48aec0f67f01ec80",
+        "size": 803884
+      },
+      {
+        "path": "DirectX/Nov2007_d3dx9_36_x64.cab",
+        "hash": "39afab1a89bcf46806b422837da35ddc1b8eedf0393d875a89b47cde5fed79d4",
+        "size": 1802058
+      },
+      {
+        "path": "DirectX/Nov2007_d3dx9_36_x86.cab",
+        "hash": "89026e7e14fff8164de3c13a774d539e789637104d7bc84b8bb4e059b76a9679",
+        "size": 1709360
+      },
+      {
+        "path": "DirectX/NOV2007_X3DAudio_x64.cab",
+        "hash": "f954abaf7966b409d3db339f5dc491e103365f47b23faffca25d85ea3728f12f",
+        "size": 46144
+      },
+      {
+        "path": "DirectX/NOV2007_X3DAudio_x86.cab",
+        "hash": "74a6d31a4c54d8c0fb2dcde922409c05db3219b7dcffa44c16f603ba054fb922",
+        "size": 18496
+      },
+      {
+        "path": "DirectX/NOV2007_XACT_x64.cab",
+        "hash": "d01b468ec66b36bea0e20503c01b93ac64d9e001c20d28cf7c71293e9f874af0",
+        "size": 196762
+      },
+      {
+        "path": "DirectX/NOV2007_XACT_x86.cab",
+        "hash": "c888a8a79249ab284a918c371f2fe6da81fdf432e65d3da3cd24fecede267aed",
+        "size": 148264
+      },
+      {
+        "path": "DirectX/Nov2008_d3dx10_40_x64.cab",
+        "hash": "a318a71b953f87ef0f5fad91a153f7ee251c8f895581950022f38f63d5f66cba",
+        "size": 994154
+      },
+      {
+        "path": "DirectX/Nov2008_d3dx10_40_x86.cab",
+        "hash": "4d7805c3db9fe72978fdd4c0c8ff973eed07ca6619d1c988cd01e08b70e1d137",
+        "size": 965421
+      },
+      {
+        "path": "DirectX/Nov2008_d3dx9_40_x64.cab",
+        "hash": "723e8fcfe969493e6c4f79d2634c052eed9cd1e7051cfbf4466643b964fea29c",
+        "size": 1906878
+      },
+      {
+        "path": "DirectX/Nov2008_d3dx9_40_x86.cab",
+        "hash": "a259dd75611610bc0fd9c874e68ec89bbae4ac5f8db0857705a35de616604641",
+        "size": 1550796
+      },
+      {
+        "path": "DirectX/Nov2008_X3DAudio_x64.cab",
+        "hash": "8de7aedf7f823e455c663cec42b158f6d5308efd356a9cf9295ae49f7c8a3fdb",
+        "size": 54522
+      },
+      {
+        "path": "DirectX/Nov2008_X3DAudio_x86.cab",
+        "hash": "f2264f092313682f4e274ad71030248fa2e23d202abc2d46ab09c7d6b580b81b",
+        "size": 21851
+      },
+      {
+        "path": "DirectX/Nov2008_XACT_x64.cab",
+        "hash": "9dda7b01517451b9ca53abc3a4e61277481c4e8a6404d15450b5a416416b8016",
+        "size": 121794
+      },
+      {
+        "path": "DirectX/Nov2008_XACT_x86.cab",
+        "hash": "7b5594c1146a7753e8aeb0d235a060360b3072ba7b0fa122536d85b42df73a2e",
+        "size": 92684
+      },
+      {
+        "path": "DirectX/Nov2008_XAudio_x64.cab",
+        "hash": "980e6bb91d20d90225405887ebec47a7b1deee21faab4c561faae323007f6c98",
+        "size": 273960
+      },
+      {
+        "path": "DirectX/Nov2008_XAudio_x86.cab",
+        "hash": "00c28cd39034f7e1d434adc0bd39e4be29eabe8b73a2f3eaca6de11d2d22be95",
+        "size": 272611
+      },
+      {
+        "path": "DirectX/Oct2005_xinput_x64.cab",
+        "hash": "10f2bcfcc38d3150bc80eb0030a1cd40084f1ec028dc927543c485d54ec35022",
+        "size": 86037
+      },
+      {
+        "path": "DirectX/Oct2005_xinput_x86.cab",
+        "hash": "f2d475864e34409fb586093f92390e1f47403867c39ac30918941f19f3fccb0f",
+        "size": 45359
+      },
+      {
+        "path": "DirectX/OCT2006_d3dx9_31_x64.cab",
+        "hash": "3cf78eeedcddddaf131af35cc68c218685c133326ff2876cb821096ed7ebf0c8",
+        "size": 1412902
+      },
+      {
+        "path": "DirectX/OCT2006_d3dx9_31_x86.cab",
+        "hash": "fd8c9c23aea007aa92eca130446913ef04d9fc78e0e6fc3c49c25d210889de61",
+        "size": 1127217
+      },
+      {
+        "path": "DirectX/OCT2006_XACT_x64.cab",
+        "hash": "db037f2b07f00a7aa481b12ed35d52e3b7c18bb786590eb444b27cf69a675f0f",
+        "size": 182361
+      },
+      {
+        "path": "DirectX/OCT2006_XACT_x86.cab",
+        "hash": "65916ca9db2d3eeb6a44f19a19c4254ca4fc1795bad81fda35e028d9b62e1d3d",
+        "size": 138017
+      }
+    ],
+    "reference": [
+      {
+        "path": "directx_Jun2010_redist.exe",
+        "hash": "053f76dcbb28802e23341b6a787e3b0791c0fa5c8d4d011b1044172dbf89c73b",
+        "size": 100275120
+      }
+    ]
+  }
+]
