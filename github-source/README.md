@@ -27,6 +27,3 @@ The `*Checks.cs` files are standalone programs that exercise the engine against 
 
 ## Third-party tools it drives
 Mod Organizer 2, xNVSE, the FNV 4GB patcher, xdelta3, FNVEdit and the Microsoft runtimes are used as separate programs and keep their own licenses. Check them before redistributing anything.
-
-## License
-ADD A LICENSE (the author has to choose one).
